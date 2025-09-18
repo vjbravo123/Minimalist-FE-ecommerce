@@ -1,12 +1,51 @@
-# React + Vite
+# 🛍️ Minimalist FE E-commerce  
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clean and minimalist frontend layout for an e-commerce website.  
+Built with **React + Vite**, this project focuses on UI design only — no backend or business logic implemented.  
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Live Demo  
+🔗 [View Live Site](https://lambent-cactus-170c62.netlify.app/)  
 
-## Expanding the ESLint configuration
+## 📂 Repository  
+🔗 [GitHub Repo](https://github.com/vjbravo123/Minimalist-FE-ecommerce)  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## ✨ Features  
+- ⚛️ Built with React and Vite  
+- 🎨 Minimalist UI design  
+- 📱 Responsive layout  
+- 🚧 UI-only (no functionality implemented yet)  
+
+---
+
+## 📦 Installation & Setup  
+
+```bash
+# Clone the repository
+git clone https://github.com/vjbravo123/Minimalist-FE-ecommerce.git
+
+# Navigate into the project
+cd Minimalist-FE-ecommerce
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+```
+
+---
+
+## 🛠️ Tech Stack  
+- **React**  
+- **Vite**  
+- **CSS / Minimal styling**  
+
+---
+
+## 📌 Notes  
+This project is currently frontend-only with no backend integration.  
+The goal is to provide a minimalist and responsive UI foundation for future e-commerce functionality.  
